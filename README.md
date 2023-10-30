@@ -33,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/xs7mLbj"  ><a href="//imgur.com/a/xs7mLbj">CodePath Crewmates</a></blockquote>
 
-Linked -> https://imgur.com/a/xs7mLbj.gif
+Linked -> https://i.imgur.com/qMDEdu2.gif
 ## Notes
 
 No challenges in particular, used a lot of previous weeks code to ensure the routing is set up correctly.
