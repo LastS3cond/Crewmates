@@ -1,43 +1,43 @@
-# Web Development Project 5 - Rainy Days
+# Web Development Project 7 - Crewmates
 
 Submitted by: **Jaydon Bingham**
 
-This web app: **This project allows the user to search weather by the hour to get relevant information about certain hours or days across a five day period. They can also filter by day/night or rainy/dry.**
+This web app: **Allows the user to create, update, and delete crewmates, who have a name, color, and job. Users can view all current crewmates in the gallery.**
 
-Time spent: **8** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [X] **The list displays a list of data fetched using an API call**
-- [X] **Data uses the useEffect React hook and async/await syntax**
-- [X] **The app dashboard includes at least three summary statistics about the data such as**
-  - [X] Average Daytime Temp
-  - [X] Average Nighttime Temp
-  - [X] Average UV
-- [X] **A search bar allows the user to search for an item in the fetched data**
-- [X] **Multiple different filters (2+) allow the user to filter items in the database by specified categories**
+- [X] **A create form allows users to add new cremates**
+- [X] **Users can name the crewmate and set the crewmate's attributes by clicking on one of several values**
+- [X] **The site displays a summary page of all the user's added crewmates**
+- [X] **A previously created crewmate can be updated from the crewmate list**
+- [X] **A previously created crewmate can be deleted from the crewmate list**
+- [X] **Each crewmate has a direct, unique link to an info page about them**
 
 The following **optional** features are implemented:
 
-- [ ] Multiple filters can be applied simultaneously
-- [ ] Filters use different input types such as a text input, a selection, or a slider
-- [ ] The user can enter specific bounds for filter values
+- [ ] A crewmate can be given a category upon creation which restricts their attributes
+- [ ] The site displays summary statistics about a user's crew on their crew page 
+- [ ] The site displays a custom "success" metric about a user's crew which changes the look of the crewmate list
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [X] **User's choice of color colors in a smiley face on the crewmate information page, as well as the create page**
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-(https://imgur.com/a/YwaRTOq.gif)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/xs7mLbj"  ><a href="//imgur.com/a/xs7mLbj">CodePath Crewmates</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+Linked -> https://imgur.com/a/xs7mLbj.gif
 ## Notes
 
-Some challenges encountered were with the API. I had to completely scratch most of the previous work with this project since I didn't have a good understanding of API calls in React.
-
+Describe any challenges encountered while building the app.
+No challenges in particular, used a lot of previous weeks code to ensure the routing is set up correctly.
 ## License
 
     Copyright [2023] [Jaydon Bingham]
