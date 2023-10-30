@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/xs7mLbj"  ><a href="//https://i.imgur.com/qMDEdu2.gif">CodePath Crewmates</a></blockquote>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/xs7mLbj"  ><a href="//imgur.com/a/xs7mLbj">CodePath Crewmates</a></blockquote>
 
 Linked -> https://i.imgur.com/qMDEdu2.gif
 ## Notes
