@@ -36,7 +36,6 @@ Here's a walkthrough of implemented user stories:
 Linked -> https://imgur.com/a/xs7mLbj.gif
 ## Notes
 
-Describe any challenges encountered while building the app.
 No challenges in particular, used a lot of previous weeks code to ensure the routing is set up correctly.
 ## License
 
