@@ -1,0 +1,136 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.CrewmateInfo {
+  cursor: pointer;
+}
+
+.sideBar {
+  background-color: #19a3ff;
+  color: #fff;
+  padding: 20px;
+  min-width: 200px;
+}
+
+.sideBar h1 {
+  margin: 10px 0;
+}
+
+.content {
+  flex-grow: 1;
+}
+
+.mainContent {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 20px;
+}
+
+.mainContent div {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.header {
+  text-align: center;
+}
+
+.Creator {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  justify-content: center;
+  justify-self: center;
+  height: 40px;
+}
+
+nav {
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  margin: 10px 0;
+  width: 1600px;
+}
+
+Link {
+  cursor: pointer;
+}
+
+.home-link {
+  border: 1px dotted white;
+  background: #1d1f1d;
+  width: 75px;
+}
+
+.displayCrew h1 {
+  font-size: large;
+  font-weight: bold;
+}
+
+.CrewmateInfo h1 {
+  font-size: large;
+  font-weight: bold;
+}
+
+.CrewmateInfo {
+
+  border: 1px solid #ccc;
+  padding: 10px;
+  justify-content: center;
+  justify-self: center;
+}
+
+#C .smiley-face {
+  margin-left: 300px;
+  margin-bottom: 10px;
+}
+
+.smiley-face {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  position: relative;
+  border: 3px solid #333;
+  /* Add this line to add a border */
+}
+
+.eyes {
+  position: absolute;
+  width: 20%;
+  height: 20%;
+  border-radius: 50%;
+  background-color: black;
+  top: 30%;
+}
+
+.eyes.left {
+  left: 20%;
+}
+
+.eyes.right {
+  right: 20%;
+}
+
+.mouth {
+  position: absolute;
+  top: 60%;
+  left: 22%;
+  width: 50%;
+  height: 15%;
+  border: 3px solid black;
+  border-top: none;
+  border-bottom-left-radius: 80px;
+  border-bottom-right-radius: 70px;
+  transform: rotate(0deg);
+}
+
+.Home {
+  text-align: center;
+  height: max-content;
+}
